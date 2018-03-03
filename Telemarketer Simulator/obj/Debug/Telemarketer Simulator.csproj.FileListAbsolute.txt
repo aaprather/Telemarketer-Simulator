@@ -1,0 +1,6 @@
+C:\Users\Aaron\Desktop\Visual C\Class Stuff\Project 1\Telemarketer Simulator\Telemarketer Simulator\bin\Debug\Telemarketer Simulator.exe.config
+C:\Users\Aaron\Desktop\Visual C\Class Stuff\Project 1\Telemarketer Simulator\Telemarketer Simulator\bin\Debug\Telemarketer Simulator.exe
+C:\Users\Aaron\Desktop\Visual C\Class Stuff\Project 1\Telemarketer Simulator\Telemarketer Simulator\bin\Debug\Telemarketer Simulator.pdb
+C:\Users\Aaron\Desktop\Visual C\Class Stuff\Project 1\Telemarketer Simulator\Telemarketer Simulator\obj\Debug\Telemarketer Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Visual C\Class Stuff\Project 1\Telemarketer Simulator\Telemarketer Simulator\obj\Debug\Telemarketer Simulator.exe
+C:\Users\Aaron\Desktop\Visual C\Class Stuff\Project 1\Telemarketer Simulator\Telemarketer Simulator\obj\Debug\Telemarketer Simulator.pdb
